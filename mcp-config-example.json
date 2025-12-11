@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "mysql": {
+      "command": "E:/phpstudy_pro/WWW/test_job/mcp/mysql-mcp.exe",
+      "env": {
+        "MYSQL_DATABASE": "test_arenax_v2",
+        "MYSQL_HOST": "127.0.0.1",
+        "MYSQL_PASSWORD": "root",
+        "MYSQL_USER": "root"
+      }
+    },
+    "chrome-devtools": {
+      "command": "npx",
+      "args": ["chrome-devtools-mcp@latest"]
+    }
+  }
+}
