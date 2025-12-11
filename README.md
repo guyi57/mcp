@@ -1,6 +1,6 @@
-# MySQL MCP 工具
+#  MCP 工具
 
-这是一个用 Go 实现的 MySQL MCP (Model Context Protocol) 工具，可以让 AI 助手（如通义灵码）直接查询和操作 MySQL 数据库。
+这是一个用 Go 实现的 MCP (Model Context Protocol) 工具，可以让 AI 助手（如通义灵码）直接查询和操作 MySQL 数据库 读网页、生成文档、压测。
 
 ## 功能特性
 
